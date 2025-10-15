@@ -44,12 +44,14 @@
 - `CRUD /api/v1/carriers` - 承运商管理
 
 ## 🚀 快速开始
-# 克隆项目
+
 ```bash
+# 克隆项目
 git clone https://github.com/your-username/wtoms.git
 ···
-# 启动服务
+
 ```bash
+# 启动服务
 cd wtoms && docker-compose up -d
 ```
 
