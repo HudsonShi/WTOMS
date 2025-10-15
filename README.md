@@ -44,8 +44,6 @@
 - `CRUD /api/v1/carriers` - 承运商管理
 
 ## 🚀 快速开始
-
-## 🚀 快速开始
 # 克隆项目
 ```bash
 git clone https://github.com/your-username/wtoms.git
