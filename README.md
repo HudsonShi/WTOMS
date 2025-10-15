@@ -48,7 +48,7 @@
 ```bash
 # 克隆项目
 git clone https://github.com/your-username/wtoms.git
-···
+```
 
 ```bash
 # 启动服务
